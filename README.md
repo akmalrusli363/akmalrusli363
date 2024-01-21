@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi, Welcome to my GitHub profile! :wave:
 
-<!--
-**akmalrusli363/akmalrusli363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤖 Android Mobile Developer (Kotlin & Java)
+- 🌐 Also doing web stuffs!
+- 📰 Check out my blog at [akmalrusli363.github.io](akmalrusli363.github.io)
+- 🎨 The terminal colorschemes:
+  - 🧹 **Hi-Mage! Colorschemes** · [hi-mage-colorschemes](https://github.com/akmalrusli363/hi-mage-colorschemes)
+  - 💻 **ChaniVibes** · [chanivibes-colorscheme](https://github.com/akmalrusli363/chanivibes-colorscheme)
+- 📘 Learn more about code architecture & refactoring at:
+  - 🛑 **Code Reengineering** — Refactoring · [smell](https://akmalrusli363.github.io/smell/)
+  - 🐱 **Oh-My-Patt! Design Patterns** · [fla-design-patterns](https://akmalrusli363.github.io/fla-design-patterns/)
 
-Here are some ideas to get you started:
+### Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java · Kotlin · HTML · CSS/SCSS · JavaScript (Vue + ReactJS) · Spring · Python · Bash · YAML
