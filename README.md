@@ -2,7 +2,7 @@
 
 - 🤖 Android Mobile Developer (Kotlin & Java)
 - 🌐 Also doing web stuffs!
-- 📰 Check out my blog at [akmalrusli363.github.io](akmalrusli363.github.io)
+- 📰 Check out my blog at [akmalrusli363.github.io](https://akmalrusli363.github.io)
 - 🎨 The terminal colorschemes:
   - 🧹 **Hi-Mage! Colorschemes** · [hi-mage-colorschemes](https://github.com/akmalrusli363/hi-mage-colorschemes)
   - 🔮 **Mageria Color Palette** · [estehbunny/mageria-color-palette](https://github.com/estehbunny/mageria-color-palette)
